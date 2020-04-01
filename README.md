@@ -1,2 +1,3 @@
 # Intron.V
-A WIP plugin for Endless Sky
+
+Escape the reaches of the old and build a new future
